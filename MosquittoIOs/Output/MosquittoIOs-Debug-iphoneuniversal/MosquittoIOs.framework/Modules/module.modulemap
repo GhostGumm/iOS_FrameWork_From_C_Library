@@ -1,0 +1,6 @@
+framework module MosquittoIOs {
+  umbrella header "MosquittoIOs.h"
+
+  export *
+  module * { export * }
+}
